@@ -2,7 +2,12 @@
 .DS_Store*
 ehthumbs.db
 Icon?
+<<<<<<< HEAD
 Thumbs.db
 *.pyc
 *.project
 *.pydevproject
+=======
+Thumbs.db
+userdata
+>>>>>>> origin
